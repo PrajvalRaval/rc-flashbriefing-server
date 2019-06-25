@@ -31,7 +31,11 @@ Deploy your Flash briefing skill in minutes using Rocket chat and broadcast mess
 
 ### Deploying Code
 
-* **env Variables:**
+* Get Repository Contents using the following command:
+   
+   `git clone https://github.com/PrajvalRaval/rc-flashbriefing-server.git`
+   
+* After cloning create a **.env** file with following environment variables:
 
   * **PORT** : Enter The Port number you want server to run on.
   
@@ -39,7 +43,9 @@ Deploy your Flash briefing skill in minutes using Rocket chat and broadcast mess
 
   * **SERVER_URL** : Enter your current Rocket.Chat server url here. Ex- https://your.sever.chat
 
-* After App is deployed we will be using **Server URL** in the next step.
+* Deploy the code to the server of your choice.
+
+* After App is deployed we will be using **URL/Domain** of the server in the next step.
 
 ### Creating Flash Briefing Skill
 
@@ -51,7 +57,7 @@ Deploy your Flash briefing skill in minutes using Rocket chat and broadcast mess
 
 * Choose **Content type** as **Text**.
 
-* In **Feed**, paste the **Server URL**.
+* In **Feed**, paste the **URL/Domain**.
 
 * Upload Photo and hit **Add**.
 
