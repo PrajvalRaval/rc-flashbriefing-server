@@ -12,7 +12,7 @@ Deploy your Flash briefing skill in minutes using Rocket chat and broadcast mess
 ### Pre-requisites
 
 * Node.js (> v8.10)
-* A Standalone Server to deply code.
+* A Standalone Server to deploy code.
 * Register for an [Amazon Developer Account](https://developer.amazon.com/)
 * Rocket Chat Server updated to Release 1.2.0-rc.0 or later.
 
