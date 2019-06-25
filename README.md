@@ -43,6 +43,8 @@ Deploy your Flash briefing skill in minutes using Rocket chat and broadcast mess
 
   * **SERVER_URL** : Enter your current Rocket.Chat server url here. Ex- https://your.sever.chat
 
+* Change **cacheTimeout** & **flashBriefingTitle** from **index.js** as per your requirement.
+
 * Deploy the code to the server of your choice.
 
 * After App is deployed we will be using **URL/Domain** of the server in the next step.
